@@ -1,11 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true" alt="github stats"/>
 
 
-<p align="center">
-    <a href="https://github.com/astromanish/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanish&layout=compact" /></a>
-</p>
 
-<p align="center">
+<a href="https://github.com/astromanish/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanish&layout=compact" /></a>
+
+
+
 
 ### Tools
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
@@ -63,8 +63,8 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
-<p/>
 
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=astromanish.astromanish" />
-</p>
+
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=astromanish.astromanish" />
+
