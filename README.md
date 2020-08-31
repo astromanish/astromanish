@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true
-&layout=compact&theme=dracula" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=astromanish" alt="github stats"/>
 
 
 <p align="center">
