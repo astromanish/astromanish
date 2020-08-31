@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true" alt="github stats"/>
+||||||| 7c25283
+<img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true
+&layout=compact&theme=dracula" alt="github stats"/>
+=======
+<img src="https://github-readme-stats.vercel.app/api/?username=astromanish" alt="github stats"/>
+>>>>>>> 6415540d98ae550ec64156976c2b3643f8d89187
 
 
 <p align="center">
