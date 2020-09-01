@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=rush-tea&show_icons=true" alt="github stats"/>
 
 
 
@@ -54,7 +54,11 @@
 <br/>
 <br/>
 
-### Find me around the web
+<hr/>
+
+## Find me around the web
+
+<p align="center">
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -63,8 +67,13 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
+</p>
 
-
+<p align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=astromanish.astromanish" />
+
+</p>
+
+
 
