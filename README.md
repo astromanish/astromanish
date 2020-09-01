@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/?username=rush-tea&show_icons=true" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true" alt="github stats"/>
 
 
 
