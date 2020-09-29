@@ -2,6 +2,10 @@
 
 <a href="https://github.com/astromanish/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanish&layout=compact" /></a>
 
+<p align='center'>
+  <img src='https://github-profile-trophy.vercel.app/?username=astromanish&margin-w=38&' />
+</p>
+
 <hr/>
 
 ### Tools
