@@ -1,13 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=astromanish&show_icons=true" alt="github stats"/>
 
-
-
 <a href="https://github.com/astromanish/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanish&layout=compact" /></a>
-
 
 <hr/>
 
 ### Tools
+
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
@@ -37,14 +35,10 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
-
-
-
 <br/>
 <br/>
 
 ### Other Interests
-
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
@@ -63,7 +57,6 @@
 <a href="https://www.facebook.com/astromanishsingh" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://www.instagram.com/_astromanish/?hl=en" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/manish-singh-580736178/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.quora.com/profile/Manish-Singh-2167" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" /></a>
 <a href="mailto: astromanishsingh@gmail.com" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="https://twitter.com/_astromanish" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
@@ -74,6 +67,3 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=astromanish.astromanish" />
 
 </p>
-
-
-
