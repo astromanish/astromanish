@@ -2,13 +2,10 @@
 
 <a href="https://github.com/astromanish/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanish&layout=compact" /></a>
 
-<p align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=astromanish&margin-w=38&' />
-</p>
 
 <hr/>
 
-### ProgrammingLanguage
+#### Programming Languages
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
@@ -17,7 +14,7 @@
 <br/>
 <br/>
 
-### Tools
+#### Tools
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
@@ -30,46 +27,15 @@
 <br/>
 <br/>
 
-### Web Development Stack
-
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-
-
-
-<br/>
-<br/>
-
-## App Devlopment Stack
-
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
-
-
-<br/>
-<br/>
-
-### Other Interests
-
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeaftereffects.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeaudition.svg" />
-
-<br/>
-<br/>
-
 <hr/>
 
-## Find me around the web
+#### Wanna Chat?
 
 <p align="center">
 
-<a href="https://www.facebook.com/astromanishsingh" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.instagram.com/_astromanish/?hl=en" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/manish-singh-580736178/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/_astromanish/?hl=en" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="mailto: astromanishsingh@gmail.com" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://twitter.com/_astromanish" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 </p>
 
